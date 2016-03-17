@@ -1,5 +1,7 @@
 this is part of an application i'm building tht will be used to package a website in an application.
+
 It also can be used as a standalone project
+
 to use you can
 ```
    git clone https://github.com/simonhochrein/electron-blank
