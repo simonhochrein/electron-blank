@@ -1,4 +1,4 @@
-this is part of an application i'm building tht will be used to package a website in an application.
+this is part of an application i'm building that will be used to package a website in an application.
 
 It also can be used as a standalone project
 
