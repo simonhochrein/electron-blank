@@ -1,5 +1,6 @@
 {
- "width":250,
- "height":250,
- "url":"http://google.com"
+ "width":1000,
+ "height":1000,
+ "url":"http://google.com",
+ "maximize":true
 }
